@@ -12,4 +12,4 @@ inver = inv(matrix_A)
 
 x = inver * z
 
-Sub_matrix = matrix_A(1:4,1:4)
+Sub_matrix = matrix_A(1)
